@@ -1,0 +1,139 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 20px;
+    
+    
+}
+
+.titles{
+    font-weight: 600;
+    margin-bottom: 1px;
+    font-size: 30px;
+}
+
+.name{
+    font-weight: bolder;
+    font-size:60px;
+    color: crimson;
+}
+
+p{
+    text-align: justify;
+    color: dimgrey;
+}
+
+/* .half-width{
+    width: 50%;
+    float: left;
+    
+
+}
+
+.half-width img{
+    width: 60%;
+    margin-top: 10px;
+    margin-left: 240px;
+} */
+
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 2%;
+}
+
+.half-width img{
+    width: 80%;
+    margin-top: 10px;
+    
+    
+}
+
+#fst{
+    margin-left: 200px;
+}
+
+#snd{
+    margin-right: 200px;
+}
+
+.link-b{
+    text-decoration: none;
+    background-color: crimson;
+    border-radius: 30px;
+    color: whitesmoke;
+    font-weight: bold;
+    padding: 10px 20px;
+}
+
+.link-b:hover{
+    color: dimgray;
+    background-color: crimson;
+}
+
+section{
+    height: 500px;
+    padding-bottom: 180px;
+}
+
+
+.work h4{
+    text-align: center;
+}
+
+
+.thrd-wdth {
+    float: left;
+    width: 28%;
+    margin-left: 2%;
+    padding-left: 2%;
+  }
+
+  .client .mdl{
+      text-align: center;
+  }
+  .client #bld{
+      font-weight: bold;
+  }
+
+  #word{
+      
+      text-align: center;
+      width: 60%;
+  }
+
+  #cl-wrd{
+      padding-left: 30%;
+      padding-right: 30%;
+      text-align: center;
+      color: black;
+      text-align: justify;
+  }
+
+  .contact{
+      background-color: crimson;
+      border-radius: 20px;
+      text-align: center;
+      margin: auto;
+      width: 60%;
+      height: 25%;
+      padding: 10px;
+
+  }
+
+  .contact p{
+      padding-top: 12px;
+      text-align: center;
+      color: white;
+  }
+
+  #sml{
+      font-size: xx-small;
+  }
+
+  footer p{
+    text-align: center;
+    font-size: 15px;
+}
+
